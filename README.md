@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshlko1&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshlko1" /> </p>
 
-- 🌱 I’m currently Persuing **Azure, GCP,Machine Learning , Deep Learning ,NLP ,Computer Vision**
+- 🌱 I’m currently Persuing **Machine Learning , Deep Learning ,NLP ,Computer Vision**
 
 - 💬 Ask me about **Python,SQL,Machine Learning,NLP,Computer Vision, Tableau and Power BI**
 
