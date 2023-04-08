@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Anupam Mishra</h1>
+<h1 align="center">I'm Anupam Mishra</h1>
 <h3 align="center">I have a strong interest in DATA SCIENCE and MACHINE LEARNING, and currently, I am working as a trainee in the field of Data Science. My interests include Python programming, Machine Learning and Statistics.</h3>
 
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
