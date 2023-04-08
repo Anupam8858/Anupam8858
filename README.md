@@ -3,6 +3,16 @@
 <h1 align="center">Hi 👋, I'm Anupam Mishra</h1>
 <h3 align="center">I have a strong interest in DATA SCIENCE and MACHINE LEARNING, and currently, I am working as a trainee in the field of Data Science. My interests include Python programming, Machine Learning and Statistics.</h3>
 
+**I love working with**
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Python Programming"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Power BI"/>
+</div>
+
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshlko1&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshlko1" /> </p>
