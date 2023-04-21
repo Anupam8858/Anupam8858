@@ -1,9 +1,10 @@
-### Hi there 👋
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM)](https://codegrills.in)
+### Hi there 👋
 <h1 align="center">I'm Anupam Mishra</h1>
 <h3 align="center">I have a strong interest in DATA SCIENCE and MACHINE LEARNING, and currently, I am working as a trainee in the field of Data Science. My interests include Python programming, Machine Learning and Statistics.</h3>
 
-[![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshlko1&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshlko1" /> </p>
 
