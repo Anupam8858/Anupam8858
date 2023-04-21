@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM)](https://codegrills.in)
 <h1 align="center">I'm Anupam Mishra</h1>
 <h3 align="center">I have a strong interest in DATA SCIENCE and MACHINE LEARNING, and currently, I am working as a trainee in the field of Data Science. My interests include Python programming, Machine Learning and Statistics.</h3>
 
